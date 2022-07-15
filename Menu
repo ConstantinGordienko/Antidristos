@@ -1,0 +1,18 @@
+<html>
+<title>Antidridtos</title>
+  <body>
+    <h1>Antidristos</h1>
+    <p>Бесплатный смс бомбер</p>
+    <input> Номер телефона
+    <hr>
+    <input> Кол-во раз
+    <hr>
+    <button onclick="MyCustomFunction()"> Начать атаку</button>
+    <script>
+      function MyCustomFunction(){
+        alert("Атака пошла");
+      }
+    </script>
+    <p>Made by Art with love(:</p>
+  </body>
+</html>
