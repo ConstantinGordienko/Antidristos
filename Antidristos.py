@@ -1,9 +1,9 @@
 import requests, random
 
-logo = r
 Password=input("input the password")
 if password=1509:
 
+logo=r
 
 print(logo)
 _phone = input('Здравствуйте! Введите номер для атаки(79xxxxxxxxx)-->> ')
