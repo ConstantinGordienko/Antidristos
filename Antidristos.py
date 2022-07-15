@@ -1,6 +1,9 @@
 import requests, random
 
 logo = r
+Password=input("input the password")
+if password=1509:
+
 
 print(logo)
 _phone = input('Здравствуйте! Введите номер для атаки(79xxxxxxxxx)-->> ')
@@ -331,4 +334,6 @@ while True:
 		print(('{} круг пройден.').format(iteration))
 	except:
 		break:
+Else:
+Print("Неправильный пароль")
 
